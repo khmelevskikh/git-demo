@@ -1,2 +1,2 @@
 # git-demo
-This our first commit
+Git training repository
